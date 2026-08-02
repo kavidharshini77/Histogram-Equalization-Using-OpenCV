@@ -70,10 +70,9 @@ Display original color image, histogram, enhanced image, and enhanced histogram 
 ## Program
 
 ### Developed By:
-**Name:** MAHALAKSHMI M 
+**Name:** KAVIDHARSHINI RAMESH
 
-### Register No:
-212224230148
+### Register No: 2122225240069
 
 ## STEP - 1
 ```
