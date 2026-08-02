@@ -72,7 +72,7 @@ Display original color image, histogram, enhanced image, and enhanced histogram 
 ### Developed By:
 **Name:** KAVIDHARSHINI RAMESH
 
-### Register No: 2122225240069
+### Register No: 212225240069
 
 ## STEP - 1
 ```
